@@ -1,0 +1,20 @@
+subject:
+text: |
+  Hey [name],
+
+  My name is [my name] and I'm with [my company]. We work with organizations like [competitors] to [solution].
+
+  [key benefit].
+
+  Could you direct me to the right person to talk to about this at [company] so we can explore if this would be something valuable to incorporate into your events?
+
+  Cheers,
+
+  [my name]
+
+source:
+  name: Close.io
+  url: http://blog.close.io/5-cold-email-templates-that-will-generate-warm-leads-for-your-sales-team
+
+tags:
+  - referral

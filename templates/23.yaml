@@ -1,0 +1,18 @@
+subject: Nice to meet you, [name]
+text: |
+
+  Hi [name]
+
+  We’re both members of [event or online group] and I’ve seen you around, so I wanted to properly reach out and meet you. I’m [my name] and I’m the [my title] at [my company].
+
+  I want to make myself available to you if you need help around [problem]. What can I do to help you right now?
+
+  Cheers,
+  [my name]
+
+source:
+  name: Quora
+  url: https://www.quora.com/What-are-the-best-cold-email-templates-to-make-connections
+
+tags:
+  - follow_up_from_event

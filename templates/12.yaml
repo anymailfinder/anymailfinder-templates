@@ -1,0 +1,16 @@
+subject:
+text: |
+  [name],
+
+  I just tried giving you a call and left a voicemail.
+
+  Please give me a call back at [my number], or send me a note if you get the chance.
+
+  Thank you!
+
+source:
+  name: Yesware
+  url: http://www.yesware.com/blog/cold-email/
+
+tags:
+  - follow_up

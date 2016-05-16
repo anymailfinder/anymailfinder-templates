@@ -1,0 +1,23 @@
+subject:
+text: |
+  Hi [name]
+
+  Just ran across your website and noticed you were using [competitors product].
+
+  How are you liking it?
+
+  I run a [service] called [my company]. It’s just like [my competitors product] only [key diffrentiator].
+
+  If you’re up for it, I would love to jump on a quick call with you and get your opinion on how we could make [company] better (and see if it would make sense for us to work together).
+
+  Would [time] be a good time for you?
+
+  (if not, I’m flexible, just let me know)
+
+
+source:
+  name: Videofruit
+  url: http://blog.videofruit.com/more-customers/
+
+tags:
+  - quick_chat

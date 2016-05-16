@@ -1,0 +1,20 @@
+subject:
+text: |
+
+  Do you want a demo of [product]?
+
+  We've got a few slots open in our calendar and we'd love to show you exactly how [product] works.
+
+  This is a VIP 1-on-1 demo that we'll schedule at whatever time works best for you.
+
+  Button: { Yes! Contact Me for a [product] Demo }
+
+
+
+
+source:
+  name: Smart Insights
+  url: http://www.smartinsights.com/b2b-digital-marketing/b2b-email-marketing/9-b2b-email-marketing-examples/
+
+tags:
+  - offer_demo

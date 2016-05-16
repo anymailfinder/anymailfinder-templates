@@ -1,0 +1,20 @@
+subject:
+text: |
+  [name],
+
+  I love [company] (been a customer for several months) and I’m also a big fan of your blog.
+
+  I work with companies like [company] and [key benefit]. Here’s an example of [results]
+
+  Just wanted to email you and see if [company] might be interested in a [similar type of solution].
+
+  I made a demo for you based on [whatever it was based on] to show you what it might look like [attachment]
+
+  Is this something you guys would be interested in?
+
+source:
+  name: VideoFruit
+  url: http://blog.videofruit.com/3kpermonth/
+
+tags:
+  - offer_demo

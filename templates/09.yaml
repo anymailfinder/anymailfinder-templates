@@ -1,0 +1,16 @@
+subject:
+text: |
+  Hello [name],
+
+  I have an idea that I can explain in 10 minutes that can get [company] [key benefit].
+
+  I recently used this idea to help our client [competitor] [benefits].
+
+  [name], let’s schedule a 10 minute call so I can explain. When works best for you?
+
+source:
+  name: Salesfolk
+  url: http://salesfolk.com/blog/cold-email-template-got-16-new-b2b-customers/
+
+tags:
+  - sales

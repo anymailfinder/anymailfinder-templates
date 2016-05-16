@@ -1,0 +1,18 @@
+subject:
+text: |
+  Hi [name],
+
+  I am doing some research on [company] to determine if there is a need for [key benefit].
+
+  Could you please help by pointing me to the appropriate person there that may have an interest in a brief discussion?
+
+  For context – Here is a short infographic introducing you to [company]. [infographic]
+
+  In advance, thank you for your help.
+
+source:
+  name: Salesyemail
+  url: http://salesyemail.revboss.com/
+
+tags:
+  - referral

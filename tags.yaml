@@ -1,0 +1,14 @@
+business_development:
+  color: yellow
+
+referral:
+  color: green
+
+follow_up:
+  color: magenta
+
+sales:
+  color: blue
+
+pr_pitch:
+  color: red

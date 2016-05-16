@@ -1,0 +1,19 @@
+subject:
+text: |
+  Hi [name],
+
+  My name is [my name] with [my company].
+
+  We help [industry] with [solution].
+
+  I wanted to learn how you handle [things your company does] at [company] and show you what we’re working on.
+
+  Are you available for a brief call at [time]?
+
+
+source:
+  name: Attach.io
+  url: https://attach.io/sales-email-templates/
+
+tags:
+  - sales

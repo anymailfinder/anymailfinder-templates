@@ -1,0 +1,18 @@
+subject: Can you point me in the right direction?
+text: |
+  Hey [name],
+
+  I'm sorry to trouble you. Would you be so kind as to tell me who is responsible
+  for [area] and how I might get in touch with them?
+
+  Thank you,
+
+  [my name]
+
+
+source:
+  name: Close.io
+  url: http://blog.close.io/5-cold-email-templates-that-will-generate-warm-leads-for-your-sales-team
+
+tags:
+  - referral
