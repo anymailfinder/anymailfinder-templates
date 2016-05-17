@@ -1,10 +1,13 @@
-subject:
+subject: We helped [competitor] with [problem]
 text: |
   [name],
 
-  Because I work so much with [industry], I constantly follow industry news. Recently I noticed you’ve [company action].
+  Because I work so much with [industry], I constantly follow industry news.
+  Recently I noticed you’ve [company action].
 
-  Usually when that happens, [problem] becomes a priority. That’s why I thought you might be intestered in finding out how we helped [competitor] get going quickly in their new direction - without any of the typical glitches.
+  Usually when that happens, [problem] becomes a priority. That’s why I thought
+  you might be intestered in finding out how we helped [competitor] get going
+  quickly in their new direction - without any of the typical glitches.
 
   If you’d like to learn more, let’s set up a quick call. How does [time] look on your calendar?
 
@@ -17,3 +20,4 @@ source:
 
 tags:
   - sales
+  - referral

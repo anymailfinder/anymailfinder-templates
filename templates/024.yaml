@@ -1,14 +1,15 @@
 subject: >
-  [competitor] [trigger event]
+  [competitor] has [trigger event]
 text: |
   Hey [name],
 
-  I'm sure you heard [competitor] recently [trigger event].
+  I'm sure you heard [competitor] has recently [trigger event].
 
   I think now would be the perfect time to make a move to take some market share from them.
   They're probably really busy with [trigger event], and aren't thinking as much about [area].
 
-  I have some ideas how you could take advantage and achieve [key benefit]. Do you have 5 minutes tomorrow morning to chat?
+  I have some ideas how you could take advantage and achieve [key benefit].
+  Do you have 5 minutes tomorrow morning to chat?
 
   Thanks,
   [my name]
@@ -18,4 +19,4 @@ source:
   url: https://www.quora.com/What-are-the-best-cold-email-templates-to-make-connections
 
 tags:
-  - follow_up_from_event
+  - sales

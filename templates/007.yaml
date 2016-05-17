@@ -1,10 +1,13 @@
-subject:
+subject: Can you put me in touch with [decision maker]?
 text: |
   Hey [name],
 
-  Was hoping that you might be able to introduce me to [decision maker] at [area]?
+  Was hoping that you might be able to introduce me to [decision maker] at [department]?
 
-  I wanted to connect with him because our email list targets a similar demographic with limited overlap. Seeing as our products are non-competitive, I wanted to touch base to see if he was up for brainstorming ways to leverage our existing user bases to grow both of our lists.
+  I wanted to connect with him because our email lists target a similar demographic
+  with limited overlap. Seeing our products are non-competitive, I wanted to
+  touch base to see if he was up for brainstorming ways to leverage our existing
+  user bases to grow both of our lists.
 
   We did this with [competitor] in the past, and both parties received a 15% lift in new subscribers.
 
@@ -16,3 +19,4 @@ source:
 
 tags:
   - business_development
+  - referral

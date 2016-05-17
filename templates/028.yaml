@@ -1,12 +1,15 @@
-subject:
+subject: Loved [other writer]'s article!
 
 text: |
+  Hey [name],
 
-  Hey [name], I just noticed that you published a post from [other writer] and saw that it did really well for you.
+  I just noticed that you published a post from [other writer] and saw that it did really well for you.
 
   That's awesome, glad that one performed so well.
 
-  I figured since that article was able to generate those kind of views, you might want to check out this article I wrote that covers a very similar angle. It tackles [area]. I really thinks this is something that the [company] audience will love and I know it'll perform well.
+  I figured since that article was able to generate those kind of views,
+  you might want to check out this article I wrote that covers a very similar angle.
+  It tackles [area]. I really thinks this is something that the [company] audience will love and I know it'll perform well.
 
   I've attached it for you, or you can check it out live on [blog link]. If it's a fit, I'd be glad to have you republish it. :)
 

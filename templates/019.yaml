@@ -1,4 +1,4 @@
-subject:
+subject: Quick question
 text: |
   Hey [name],
 
@@ -6,7 +6,8 @@ text: |
 
   [key benefit].
 
-  Could you direct me to the right person to talk to about this at [company] so we can explore if this would be something valuable to incorporate into your events?
+  Could you direct me to the right person to talk to about this at [company]
+  so we can explore if this would be something valuable to incorporate into your events?
 
   Cheers,
 

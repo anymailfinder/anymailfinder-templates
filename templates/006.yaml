@@ -1,4 +1,4 @@
-subject:
+subject: I could use your help!
 text: |
   Hi [name],
 
@@ -6,7 +6,9 @@ text: |
 
   Could you please help by pointing me to the appropriate person there that may have an interest in a brief discussion?
 
-  For context – Here is a short infographic introducing you to [company]. [infographic]
+  For context – Here is a short infographic introducing you to [my company].
+
+  [infographic]
 
   In advance, thank you for your help.
 
@@ -16,3 +18,4 @@ source:
 
 tags:
   - referral
+  - sales
